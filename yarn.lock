@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@grammyjs/menu@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@grammyjs/menu/-/menu-1.1.1.tgz#89d48f74f0f9f2ea42d526a78a4932ef94115b88"
+  integrity sha512-3QR79VZ9/jXAPpwmhlKC/SPhipsiEucYbkz48EZySq6fsvsS2/dlFn36Cz0BBMgLIkTm4pYNVz/wEBkRFf4QCA==
+
 "@grammyjs/types@^2.7.0":
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/@grammyjs/types/-/types-2.7.0.tgz#7887ea949a65b9c544d36044bbd1d8649cfc9c98"
